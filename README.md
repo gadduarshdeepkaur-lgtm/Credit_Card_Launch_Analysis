@@ -22,6 +22,11 @@ Analyze customer data to identify target segments for launching a new credit car
 - Optimize credit limits for underutilized accounts to improve credit efficiency and reduce exposure.
 - Implement targeted marketing strategies based on customer segmentation to improve engagement and card adoption.
 
+### Dashboard Preview:
+<p align="center">
+<img src="Dashboard.png" width="600">
+</p>
+
 ### Project Files:
 - Dataset
 - SQL Queries
